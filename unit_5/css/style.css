@@ -69,6 +69,10 @@ footer{
   padding: 1em 0;
   background-color:#FF957E
 }
+div#aboutme{
+  float:left;
+  margin:10px;
+}
 div{
   background-color:#FFE2B8
 }
@@ -82,4 +86,11 @@ section {
   background-color: #FFE2B8;
    border: 1px black solid;
    padding: 20px;
+}
+link{color:blue}
+section#me{
+height:300px;
+}
+section#contacts{
+  width:150px;
 }
