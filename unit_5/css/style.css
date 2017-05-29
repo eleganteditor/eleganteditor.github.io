@@ -45,7 +45,7 @@ h5{
   margin:1em;
   align:left;
 }
-img{
+img #carpe{
   height:200px;
   width: 500px;
   display:block;
@@ -71,4 +71,15 @@ footer{
 }
 div{
   background-color:#FFE2B8
+}
+img #profile{
+  height:228px;
+  width:auto;
+  align:left !important
+}
+
+section {
+  background-color: #FFE2B8;
+   border: 1px black solid;
+   padding: 20px;
 }
