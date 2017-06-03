@@ -4,40 +4,49 @@
 body{
   background:lavender;
 }
+
 header{
   background-color:#FFED74;
   border: 1px yellow solid;
   padding: 20px;
 }
+
 aside{
   background-color:#FFC675;
   border: 1px orange solid;
   padding: 20px;
 }
+
 article{
   background-color:#E89C6C
+  border: 1px;
+  padding: 20px;
+  line-height: 215%
 }
 
 h1{
   color:#49207F;
-font-size:34px;
-font-weight:bold;
-font-style:normal;
-text-align: center;
-font-family:'Old Standard TT', cursive;
+  font-size:34px;
+  font-weight:bold;
+  font-style:normal;
+  text-align: center;
+  font-family:'Old Standard TT', cursive;
 }
+
 h2{
   font-style: italic;
   font-family:'Old Standard TT', cursive;
   color:#6014C9;
   text-align: center;
 }
+
 h4{
   font-family:'Old Standard TT';
   font-size:medium;
   line-height:1.5em;
   margin:1em;
 }
+
 h5{
   font-family:'Old Standard TT';
   font-size:medium;
@@ -45,6 +54,7 @@ h5{
   margin:1em;
   align:left;
 }
+
 img #carpe{
   height:200px;
   width: 500px;
@@ -53,11 +63,16 @@ img #carpe{
   width:40%;
   padding:10px;
 }
+
+img #edited{
+}
+
 ul{
   font-family:'Old Standard TT';
 }
 h3{
-  font-family:'Cardo'; bold;
+  font-family:'Cardo';
+  font-weight: bold;
   border-style: groove;
   border-width: fit-content;
   width:-webkit-fit-content;
@@ -84,12 +99,12 @@ img #profile{
 
 section {
   background-color: #FFE2B8;
-   border: 1px black solid;
-   padding: 20px;
+  border: 1px black solid;
+  padding: 20px;
 }
 link{color:blue}
 section#me{
-height:300px;
+  height:300px;
 }
 section#contacts{
   width:150px;
@@ -102,7 +117,7 @@ section#contacts{
 #left {
   background-color: #CAA19B;
   border: 1px black solid;
-  padding:20px
+  padding:20px;
   float: left;
   width: 30%;
 }
@@ -111,7 +126,6 @@ section#contacts{
   border: 1px black solid;
   padding: 20px;
   float: right;
-  width: 62%
 }
 .clearfix:after {
   visibility: hidden;
