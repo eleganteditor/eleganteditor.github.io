@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f529308-7307-4d20-862a-0c20d261bfe7" name="Default" comment="" />
+    <list default="true" id="3f529308-7307-4d20-862a-0c20d261bfe7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/unit_6/index.html" afterPath="$PROJECT_DIR$/unit_6/index.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,9 +20,12 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/unit_6/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="69" column="20" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="600">
+              <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+              <folding>
+                <marker date="1496528080000" expanded="true" signature="337:366" ph="{...}" />
+                <marker date="1496528080000" expanded="true" signature="1908:1910" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,15 +147,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1496501415000</updated>
-      <workItem from="1496501417784" duration="575000" />
+      <workItem from="1496501417784" duration="764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="575000" />
+    <option name="totallyTimeSpent" value="764000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="43" width="1260" height="733" extended-state="0" />
+    <frame x="10" y="43" width="1260" height="733" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -184,9 +189,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/unit_6/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="69" column="20" lean-forward="false" selection-start-line="69" selection-start-column="20" selection-end-line="69" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="600">
+          <caret line="75" column="20" lean-forward="false" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+          <folding>
+            <marker date="1496528080000" expanded="true" signature="337:366" ph="{...}" />
+            <marker date="1496528080000" expanded="true" signature="1908:1910" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
