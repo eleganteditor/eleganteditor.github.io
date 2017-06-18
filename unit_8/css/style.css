@@ -1,0 +1,190 @@
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT);
+@import url(https://fonts.googleapis.com/css?family=Cardo);
+
+body {
+    background: lavender;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px yellow solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px orange solid;
+    padding: 20px;
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px;
+    padding: 20px;
+    line-height: 215%
+}
+
+h1 {
+    color: #49207F;
+    font-size: 34px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    font-family: 'Old Standard TT', cursive;
+}
+
+h2 {
+    font-style: italic;
+    font-family: 'Old Standard TT', cursive;
+    color: #6014C9;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Old Standard TT';
+    font-size: medium;
+    line-height: 1.5em;
+    margin: 1em;
+}
+
+h5 {
+    font-family: 'Old Standard TT';
+    font-size: medium;
+    line-height: 1.5em;
+    margin: 1em;
+    align: left;
+}
+
+img#carpe {
+    height: auto;
+    width: 500px;
+    display: block;
+    margin: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+img#edited {
+}
+
+ul {
+    font-family: 'Old Standard TT';
+}
+
+h3 {
+    font-family: 'Cardo';
+    font-weight: bold;
+    border-style: groove;
+    width: -moz-fit-content;
+    margin: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 1em 0;
+    background-color: #FF957E;
+}
+
+div#aboutme {
+    float: left;
+    margin: 10px;
+    height: 500px;
+}
+
+div {
+    background-color: #FFE2B8;
+}
+
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+link {
+    color: blue;
+}
+
+section#me {
+}
+
+section#contacts {
+    width: 150px;
+}
+
+#two_column {
+    background-color: #A76576;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #CAA19B;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: #C7948B;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+@media only screen and (max-width: 800px) {
+    img#edited {
+        width:750px;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    h1, nav {
+        display: block;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 1em;
+        display: inline;
+    }
+
+    nav a {
+        margin: 0 1em 1em;
+    }
+
+    img {
+        width: 230px;
+    }
+
+    section, div {
+        width: 100%;
+        padding: .6em;
+    }
+
+    #services {
+        float: none;
+        font-size: 1.4em;
+    }
+
+    img#edited {
+        width:400px;
+    }
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+}
